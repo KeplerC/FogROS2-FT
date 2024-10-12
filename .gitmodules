@@ -1,0 +1,6 @@
+[submodule "rt-fogros2"]
+	path = rt-fogros2
+	url = https://github.com/data-capsule/rt-fogros2.git
+[submodule "FogROS2-sky"]
+	path = FogROS2-sky
+	url = https://github.com/KeplerC/FogROS2-sky.git
