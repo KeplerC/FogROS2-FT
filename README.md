@@ -1,6 +1,6 @@
 # FogROS2-FT: Fault Tolerance 
 
-This is a meta package that sets up FogROS2-FT. 
+This is a meta package that sets up FogROS2-FT. The project website can be found [here](https://sites.google.com/view/fogros2-ft).
 
 ### Download 
 To download the repository and all submodules, run:
